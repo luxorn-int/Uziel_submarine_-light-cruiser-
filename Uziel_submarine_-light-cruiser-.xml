@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemAssembly name="Uziel_submarine_-light-cruiser-" description="" hideinmenus="false">
+  <Hull ID="3" rect="-272,128,560,224" water="0" backgroundsections="" AmbientLight="0,0,0,0" Oxygen="125440" IsWetRoom="False" AvoidStaying="False" DisallowedUpgrades="" SpriteDepth="0.001" Scale="0" HiddenInGame="False" />
+</ItemAssembly>
